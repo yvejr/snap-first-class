@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd50d477-a523-4963-b995-6b42978633c3" name="snap-first-class" url="https://bootcamp-coders.cnm.edu/~yjohnson6/snap-first-class/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/yjohnson6/public_html/snap-first-class" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
